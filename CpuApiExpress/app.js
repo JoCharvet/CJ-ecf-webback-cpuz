@@ -61,5 +61,5 @@ app.get('/', (req, res) => {
 
 /* Démarrage du serveur et de l'application */
 app.listen(3000, () => {
-  console.log(`CPU API server listening on port ${port}`);
+  console.log(`CPU API server listening on port ${3000}`);
 });
